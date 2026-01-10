@@ -237,3 +237,11 @@ Checkout Page: http://localhost:3001
 No manual database setup or additional steps are required.
 
 ---
+---
+
+## Demo Video
+
+📹 **End-to-End Payment Gateway Demo (2–3 minutes)**  
+Shows complete flow from order creation → checkout → successful payment → dashboard update.
+
+👉 https://drive.google.com/file/d/1ryCUfkSYmWFaK8cjmD87Zmtd6foQks-B/view?usp=sharing
